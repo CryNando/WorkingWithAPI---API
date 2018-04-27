@@ -1,0 +1,18 @@
+﻿Para executar o programa basta utilizar 
+
+python [nomedoprograma] [param1] [param2]
+
+É OBRIGATÓRIO O USO DE DOIS PARÂMETROS.
+TEM DUAS OPÇÕES
+
+param1 = Steam e param2 = Link do Perfil da Steam
+Exemplo de Link de Perfil = https://steamcommunity.com/profiles/76561198201190751/
+
+ou
+
+param1 = LeagueofLegends *Sem espaços mesmo* e param2 = Nick no Jogo
+Exemplo de Nick = FeeLLove, Kami, NATASHA FURACÃO *Caso o nick contenha espaço, utilize-o entre aspas*
+
+Quaisquer outra entrada será considera inválida e acarretará em erro na execução.
+
+- O arquivo <b>champions.json<b> deve estar no mesmo diretório em que executar o programa
